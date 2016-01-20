@@ -6,7 +6,7 @@
 
 然后安装插件，在vim命令模式下输入：
 
-    :BubbleInstall
+    :BundleInstall
 
 如果有人知道该配置出于何处，本人会添加上相关链接。
 
